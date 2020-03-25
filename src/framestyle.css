@@ -1,0 +1,52 @@
+.dataBox {
+    padding-top: 10px;
+    position: relative;
+    display:grid;
+    display: -moz-grid;
+    display: -moz-inline-grid;
+    grid-template-columns: 150px 200px;
+    grid-row-gap: 2px;
+    
+    
+
+
+ 
+
+
+}
+
+.btgrp_one {
+        
+    display: grid;
+    grid-template-columns: 90px 90px;  
+    grid-column-gap:10px;
+
+    width:280px ;
+    margin-left: 120px;
+    align-content: center;
+}
+
+.btgrp_one_m1{
+     
+     width:100px;
+     margin-left: 30px;
+
+
+}
+
+.btgrp_one_m2{
+
+    width:100px ;
+     margin-left: 30px;
+
+    
+
+
+}
+.separator_one{
+   position: relative;
+
+   height:5px;
+
+
+}
